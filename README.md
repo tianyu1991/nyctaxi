@@ -8,14 +8,12 @@ At first I got 2013 NYC  taxi trip data from online.(http://chriswhong.com/open-
 
 
 
-the most frequent pick up location (except for airports) in each hour 
 
-[nyctaxipickuplocation.pdf](https://github.com/tianyu1991/nyctaxi/files/116940/nyctaxipickuplocation.pdf)
+![bestpickup500](https://cloud.githubusercontent.com/assets/8493530/13025315/65ab9b4a-d1d2-11e5-82a0-ce655714a078.png)
+![bestpickup1000](https://cloud.githubusercontent.com/assets/8493530/13025316/6751cc4e-d1d2-11e5-8062-25d3119d5596.png)
+![bestpickup5002](https://cloud.githubusercontent.com/assets/8493530/13025318/690d7c54-d1d2-11e5-8cce-1e0ef6e71f69.png)
+![bestpickup10002](https://cloud.githubusercontent.com/assets/8493530/13025320/6b6ea518-d1d2-11e5-87a0-e8b32dc11c55.png)
+![bestpickupcount](https://cloud.githubusercontent.com/assets/8493530/13025322/73e48942-d1d2-11e5-9ae8-b5acb33d5c55.png)
 
-the pick up frequency at 6pm 
-
-[pick up at 6pm details2.pdf](https://github.com/tianyu1991/nyctaxi/files/116937/pick.up.at.6pm.details2.pdf)
-
-the mean speed of taxis from each pick up location at 6pm 
-
-[averagespeed.pdf](https://github.com/tianyu1991/nyctaxi/files/116945/averagespeed.pdf)
+![mostpickuplocationeachhour](https://cloud.githubusercontent.com/assets/8493530/13025326/a2ae90c4-d1d2-11e5-98e3-a53743afc294.png)
+![pickuplocationeachhour](https://cloud.githubusercontent.com/assets/8493530/13025327/a6bf9596-d1d2-11e5-98e4-261853fe3474.png)
