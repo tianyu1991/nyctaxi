@@ -2,9 +2,6 @@ setwd("/Users/appletree/Documents")
 rowdata<-read.csv("trip_data_1.csv",header=TRUE)
 data<-data.frame(pickup_datetime=rowdata$pickup_datetime,trip_time_in_secs=rowdata$trip_time_in_secs,trip_distance=rowdata$trip_distance,pickup_longitude=rowdata$pickup_longitude,pickup_latitude=rowdata$pickup_latitude)
 
-#library(lubridate)
-#b<-ymd_hms(a$pickup_datetime)
-
 rowdata<-read.csv("trip_data_2.csv",header=TRUE)
 data2<-data.frame(pickup_datetime=rowdata$pickup_datetime,trip_time_in_secs=rowdata$trip_time_in_secs,trip_distance=rowdata$trip_distance,pickup_longitude=rowdata$pickup_longitude,pickup_latitude=rowdata$pickup_latitude)
 
